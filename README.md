@@ -1,5 +1,5 @@
 # CoderFinder
-That's a project made from video lessons from the company Rocketseat.
+That's a project made from video lessons (semana Omnistack 10) from the company Rocketseat.
 
 This project has the purpose of registering and viewing programmers and their respective locations.
 This project uses the Google Maps and GitHub API.
