@@ -1,0 +1,29 @@
+{
+  "name": "CoderFinder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kauereblin/CoderFinder.git"
+  },
+  "author": "kauereblin",
+  "bugs": {
+    "url": "https://github.com/kauereblin/CoderFinder/issues"
+  },
+  "homepage": "https://github.com/kauereblin/CoderFinder#readme",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.7",
+    "mongose": "^0.0.2-security",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
